@@ -1,6 +1,6 @@
 # FBSegm
 
-# N.B.: Code is not properly commented yet. I'm improiving comments/variable names and working on an essential documentation.
+### N.B.: Code is not properly commented yet. I'm improiving comments/variable names and working on an essential documentation.
 
 This code has been used in this work: https://www.biorxiv.org/content/early/2017/06/26/109496
 
